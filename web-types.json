@@ -9,7 +9,7 @@
           "name": "app-hero",
           "source": {
             "file": "./src/components/hero.html",
-            "offset": 1
+            "offset": 18
           },
           "attributes": [
             {
