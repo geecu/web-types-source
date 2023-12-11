@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json.schemastore.org/web-types",
+  "name": "Web Types Source",
+  "version": "1.0.0",
+  "contributions": {
+    "html": {
+      "elements": [
+        {
+          "name": "app-hero",
+          "source": {
+            "file": "./src/components/hero.html",
+            "offset": 1
+          },
+          "attributes": [
+            {
+              "name": "title",
+              "required": true,
+              "value": {
+                "type": "string"
+              }
+            },
+            {
+              "name": "body",
+              "value": {
+                "type": "string"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
