@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "web-types": "./web-types.json",
+  "customElements": "custom-elements.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
